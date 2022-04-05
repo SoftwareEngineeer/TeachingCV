@@ -1,1 +1,1 @@
-# TeachingCV
+# CV
